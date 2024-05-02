@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shivangiverma1
-- 🌱 I’m currently learning data analyst
+- 🌱 I’m currently learning data analytics
 - 📫 How to reach me: Shivangi Verma
   
 
