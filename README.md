@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shivangiverma1
 - 🌱 I’m currently learning data analytics
-- 📫 How to reach me: Shivangi Verma
+- 📫 How to reach me: shivangiverma5009@gmail.com or www.linkedin.com/in/shivangi-verma-b39403252
+- 💼 Analyst @ Zigram
   
 
 <!---
